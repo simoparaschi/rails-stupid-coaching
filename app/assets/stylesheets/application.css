@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+ .container {
+  width: 40% !important;
+  padding: 24px;
+ }
+
+
+.quote {
+  border-left: 4px solid #1e1e1e;
+}
+
+.quote p {
+  padding: 0px 8px;
+}
+
+a {
+  text-decoration: none !important;
+}
